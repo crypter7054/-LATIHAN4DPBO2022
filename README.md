@@ -5,17 +5,22 @@
 - Prodi : Ilmu Komputer C2
 
 ## Janji
-Saya Yosafat (2009929) mengerjakan evaluasi Latihan 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Yosafat (2009929) mengerjakan evaluasi Latihan 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Soal
-1. Buatlah program dalam bahasa C++ untuk menampilkan spek pc beserta harga nya. Dengan ketentuan kelas dan atributnya sebagai berikut:
-- Processor : name, price
-- Disk : type(SDD/HDD), capacity, price
-- Ram : capacity, price
-- Pc : processor, disk, ram, totalPrice
-- kelas Pc akan memuat ketiga kelas lainnya sebagai atribut.
+1. Task
+Make a design and the program for this assignment : Formatted as PNG / JPEG / JPG (ex : Link) and put the link of the design in the description on the README on your GitHub project, and add the explanation of the design (Why do you use this design over another?).
+Make a program with Python implementing Multiple Inheritance/ Hierarchical Inheritance and using getter, setter, make dummy data (Min : 5 data per class & print the data) and print the content of the class.
 
-2. Buatlah program diatas menggunakan bahasa PHP, Python dan Java!
+The classes are :
+Vehicle : fuelType, maxPassengers, Move()
+Ship : age, type, countryOfManufacture
+Airplane : type, age, wingsLength
+
+Person : NIK, Name, Gender, sleep()
+Job : NIP, companyName, position
+Driver : lisenceID, activeUntil, vehicleType
+
 
 ### Analisis
 Berdasarkan soal, maka dapat diidentifikasi beberapa hal yaitu sebagai berikut:
