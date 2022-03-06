@@ -37,3 +37,22 @@ Berdasarkan soal, maka dapat diidentifikasi beberapa hal yaitu sebagai berikut:
 
 
 ## Screenshot
+### Airplane Data
+![Airplane Data](https://user-images.githubusercontent.com/77567907/156917271-af91ea2e-2000-4883-828e-66181d42ab6e.jpg)
+
+### Ship Data
+![Ship Data](https://user-images.githubusercontent.com/77567907/156917279-2d93e700-a5ee-4fe0-9b9a-1c2dc97d666a.jpg)
+
+### Vehicle Data
+![Vehicle Data](https://user-images.githubusercontent.com/77567907/156917280-93f30f13-8a3f-4086-8bfd-353a8c965e38.jpg)
+
+### Person Data
+![Person Data](https://user-images.githubusercontent.com/77567907/156917277-4b459b2b-5feb-46a3-bc62-2ea3f054e12b.jpg)
+
+### Job Data
+![Job Data](https://user-images.githubusercontent.com/77567907/156917276-fa1c68d2-6885-4307-8d55-1524e3eecd2a.jpg)
+
+### Driver Data
+![Driver Data (1)](https://user-images.githubusercontent.com/77567907/156917274-2bb3f573-8d42-433d-aff4-d35cd93422b9.jpg)
+![Driver Data (2)](https://user-images.githubusercontent.com/77567907/156917275-2670162c-0dbe-4d7f-b27f-5df81cbb9eb5.jpg)
+
