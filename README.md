@@ -8,7 +8,6 @@
 Saya Yosafat (2009929) mengerjakan evaluasi Latihan 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Soal
-1. Task
 Make a design and the program for this assignment : Formatted as PNG / JPEG / JPG (ex : Link) and put the link of the design in the description on the README on your GitHub project, and add the explanation of the design (Why do you use this design over another?).
 Make a program with Python implementing Multiple Inheritance/ Hierarchical Inheritance and using getter, setter, make dummy data (Min : 5 data per class & print the data) and print the content of the class.
 
@@ -26,6 +25,8 @@ Driver : lisenceID, activeUntil, vehicleType
 Berdasarkan soal, maka dapat diidentifikasi hasil analisis dan desain yaitu sebagai berikut:
 
 Membuat program menggunakan paradigma pemrograman berorientasi objek atau OOP dan menerapkan konsep multiple/hierarchical pada bahasa Python. Dikarenakan akan menggunakan paradigma pemrograman berorientasi objek, maka pada program ini akan membutuhkan lebih dari satu kelas untuk menerapkan konsep inheritance. Berdasarkan kondisi nyata maka dapat ditentukan bahwa Vehicle memilik child yaitu kelas Ship dan Airplane, hal ini dikarenakan Ship dan Airplane merupakan jenis kendaraan. Sedangkan untuk kelas Driver merupakan child dari kelas Person dan Job, jika dianalisis dari atribut masing-masing kelas maka dapat ditentukan Person dan Job berada pada level yang sama sehingga menghasilkan turunan atau child yaitu Driver. Pada kelas Driver terdapat beberapa informasi gabungan yang merepresentasikan informasi dari kelas Person dan Job. Contohnya Driver perlu licenseID dimana atribut ini digunakan untuk merepsentasikan informasi bahwa pada Driver juga terdapat informasi tentang Person. Kemudian pada atribut vehicleType digunakan untuk merepresentasikan informasi bahwa Driver juga terdapat informasi tentang Vehicle. Berdasarkan asumsi dan analisis tersebut, maka desain model inheritance dari soal ini dapat digambarkan sebagai berikut: 
+![Desain LAT4](https://user-images.githubusercontent.com/77567907/156917805-71fa5f9c-60e1-46d4-8f42-23046564ee8e.jpg)
+
 
 
 ## Screenshot
