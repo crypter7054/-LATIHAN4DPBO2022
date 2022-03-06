@@ -53,6 +53,9 @@ Berdasarkan soal, maka dapat diidentifikasi beberapa hal yaitu sebagai berikut:
 ![Job Data](https://user-images.githubusercontent.com/77567907/156917276-fa1c68d2-6885-4307-8d55-1524e3eecd2a.jpg)
 
 ### Driver Data
+- Bagian 1
 ![Driver Data (1)](https://user-images.githubusercontent.com/77567907/156917274-2bb3f573-8d42-433d-aff4-d35cd93422b9.jpg)
+
+- Bagian 2
 ![Driver Data (2)](https://user-images.githubusercontent.com/77567907/156917275-2670162c-0dbe-4d7f-b27f-5df81cbb9eb5.jpg)
 
